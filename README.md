@@ -23,12 +23,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeli&show_icons=true&theme=tokyonight)
-
----
-
 ### 🤓 Fun Fact
 
 > I like breaking things just to figure out how to put them back together — better.
@@ -41,7 +35,9 @@
 - Purpose: Deepen my understanding of rendering pipelines, ECS, and engine architecture  
 - Stack: C++, OpenGL, custom math/physics systems  
 - Challenges: Managing data-oriented design, optimizing for performance, keeping the codebase maintainable  
-- Goal: Use this as a learning lab, and eventually open source it as a reference for other devs
+- Goal: Use this as a learning lab, and eventually open source it as a reference for other devs  
+- **Performance Focus**: I'm diving into low-level optimizations, using tools like profilers to analyze bottlenecks and improve FPS  
+- **Assembly**: Experimenting with assembly for critical performance areas (e.g. custom math functions, memory access patterns)
 
 🧪 **Exploring**: Custom tooling with Python & WinForms  
 - Building productivity tools to automate common tasks in game asset pipelines  
@@ -57,6 +53,12 @@
 - Unreal Engine’s enhanced Blueprints & C++ systems  
 
 🎯 **Why it matters**:  
-I'm passionate about systems that empower creators — whether it’s game engines or the tools that support them. I aim to balance clean architecture with realistic implementation time, always building with purpose and curiosity.
+I'm passionate about systems that empower creators — whether it’s game engines or the tools that support them. I aim to balance clean architecture with realistic implementation time, always building with purpose and curiosity. Performance is key — whether it's FPS in a game or efficiency in a tool, I'm always looking for ways to optimize and make the most out of every resource.
+
+---
+
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeli&show_icons=true&theme=tokyonight)
 
 
