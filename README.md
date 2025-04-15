@@ -33,3 +33,30 @@
 
 > I like breaking things just to figure out how to put them back together — better.
 
+---
+
+### 🧭 What I’m Doing Now
+
+🛠️ **Currently building**: A lightweight, modular 3D engine from scratch  
+- Purpose: Deepen my understanding of rendering pipelines, ECS, and engine architecture  
+- Stack: C++, OpenGL, custom math/physics systems  
+- Challenges: Managing data-oriented design, optimizing for performance, keeping the codebase maintainable  
+- Goal: Use this as a learning lab, and eventually open source it as a reference for other devs
+
+🧪 **Exploring**: Custom tooling with Python & WinForms  
+- Building productivity tools to automate common tasks in game asset pipelines  
+- Focused on fast iteration and clean, user-friendly interfaces
+
+📚 **Learning**:  
+- Advanced rendering techniques (deferred rendering, real-time shadows, GPU optimization)  
+- ECS (Entity Component System) patterns and data-driven design  
+- How large engines like Unity and Unreal solve problems at scale
+
+🧩 **Experimenting with**:  
+- Unity DOTS for high-performance workflows  
+- Unreal Engine’s enhanced Blueprints & C++ systems  
+
+🎯 **Why it matters**:  
+I'm passionate about systems that empower creators — whether it’s game engines or the tools that support them. I aim to balance clean architecture with realistic implementation time, always building with purpose and curiosity.
+
+
