@@ -33,18 +33,20 @@
 
 🛠️ **Currently building**: A lightweight, modular 3D engine from scratch  
 - Purpose: Deepen my understanding of rendering pipelines, ECS, and engine architecture  
-- Stack: C++, OpenGL, custom math/physics systems  
+- Stack: C++, Vulkan API, custom math/physics systems  
 - Challenges: Managing data-oriented design, optimizing for performance, keeping the codebase maintainable  
 - Goal: Use this as a learning lab, and eventually open source it as a reference for other devs  
-- **Performance Focus**: I'm diving into low-level optimizations, using tools like profilers to analyze bottlenecks and improve FPS  
-- **Assembly**: Experimenting with assembly for critical performance areas (e.g. custom math functions, memory access patterns)
+- **Performance Focus**: Diving into low-level optimizations, using profilers to analyze bottlenecks and improve FPS  
+- **Assembly**: Experimenting with assembly for critical performance areas (e.g., custom math functions, memory access patterns)  
+- **Vulkan**: Building shaders and leveraging Vulkan for direct GPU control, fine-tuning rendering performance at the hardware level  
+- **Graphics Shader Hardware Shaders (GSHS)**: Experimenting with custom shaders and exploring hardware-specific optimizations to push the limits of rendering power
 
 🧪 **Exploring**: Custom tooling with Python & WinForms  
 - Building productivity tools to automate common tasks in game asset pipelines  
 - Focused on fast iteration and clean, user-friendly interfaces
 
 📚 **Learning**:  
-- Advanced rendering techniques (deferred rendering, real-time shadows, GPU optimization)  
+- Advanced rendering techniques (e.g., deferred rendering, real-time shadows, GPU optimization with Vulkan)  
 - ECS (Entity Component System) patterns and data-driven design  
 - How large engines like Unity and Unreal solve problems at scale
 
