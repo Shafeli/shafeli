@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Shafeli 👋</h1>
+<h1 align="center">Hey, I'm SHafeli 👋</h1>
 <h3 align="center">Engine & Tools Developer · he/him</h3>
 
 ---
