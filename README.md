@@ -39,7 +39,7 @@
 - **Performance Focus**: Diving into low-level optimizations, using profilers to analyze bottlenecks and improve FPS  
 - **Assembly**: Experimenting with assembly for critical performance areas (e.g., custom math functions, memory access patterns)  
 - **Vulkan**: Building shaders and leveraging Vulkan for direct GPU control, fine-tuning rendering performance at the hardware level  
-- **Graphics Shader Hardware Shaders (GSHS)**: Experimenting with custom shaders and exploring hardware-specific optimizations to push the limits of rendering power
+- **Graphics Shader Hardware Shaders (GLSL)**: Experimenting with custom shaders and exploring hardware-specific optimizations to push the limits of rendering power
 
 🧪 **Exploring**: Custom tooling with Python & WinForms  
 - Building productivity tools to automate common tasks in game asset pipelines  
