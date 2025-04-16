@@ -14,17 +14,23 @@
 
 ### 💡 Tech I Use
 
-![Vulkan](https://img.shields.io/badge/Vulkan-FF5733?style=flat&logo=vulkan&logoColor=white)
-![ImGui](https://img.shields.io/badge/ImGui-0099ff?style=flat&logo=imgui&logoColor=white)
-![GLSL](https://img.shields.io/badge/GLSL-FFB400?style=flat&logo=opengl&logoColor=white)
-![SDL](https://img.shields.io/badge/SDL-07405E?style=flat&logo=SDL&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC84B?style=flat&logo=sfml&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=flat&logo=windows&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-FF5733?style=flat&logo=vulkan&logoColor=white) 
+![ImGui](https://img.shields.io/badge/ImGui-0099ff?style=flat&logo=imgui&logoColor=white) 
+![GLSL](https://img.shields.io/badge/GLSL-FFB400?style=flat&logo=opengl&logoColor=white) 
+![SDL](https://img.shields.io/badge/SDL-07405E?style=flat&logo=SDL&logoColor=white) 
+![SFML](https://img.shields.io/badge/SFML-8CC84B?style=flat&logo=sfml&logoColor=white) 
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white) 
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=flat&logo=windows&logoColor=white) 
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) 
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
+![Perforce](https://img.shields.io/badge/Perforce-4040A1?style=flat&logo=perforce&logoColor=white)
 
 ---
 
