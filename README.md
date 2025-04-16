@@ -14,6 +14,11 @@
 
 ### 💡 Tech I Use
 
+![Vulkan](https://img.shields.io/badge/Vulkan-FF5733?style=flat&logo=vulkan&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-0099ff?style=flat&logo=imgui&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-FFB400?style=flat&logo=opengl&logoColor=white)
+![SDL](https://img.shields.io/badge/SDL-07405E?style=flat&logo=SDL&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC84B?style=flat&logo=sfml&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
