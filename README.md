@@ -34,12 +34,6 @@
 
 ---
 
-### 🤓 Fun Fact
-
-> I like breaking things just to figure out how to put them back together — better.
-
----
-
 ### 🧭 What I’m Doing Now
 
 🛠️ **Currently building**: A lightweight, modular 3D engine from scratch  
@@ -73,5 +67,12 @@ I'm passionate about systems that empower creators — whether it’s game engin
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shafeli&show_icons=true&theme=tokyonight)
+
+---
+
+### 🤓 Fun Fact
+
+> I like breaking things just to figure out how to put them back together — better.
+
 
 
