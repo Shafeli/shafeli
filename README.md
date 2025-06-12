@@ -1,6 +1,10 @@
 <h1 align="center">Hey, I'm Silas 👋</h1>
 <h3 align="center">Engine & Tools Developer · he/him</h3>
 
+### 👋 About Me
+
+Hi! I'm Silas, a former chef turned low-level systems developer. I build engines, tools, and custom pipelines to understand how things really work under the hood. My current obsession: rendering performance and game AI.
+
 ---
 
 ### 🧰 What I Do
