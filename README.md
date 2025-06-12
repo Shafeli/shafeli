@@ -70,9 +70,6 @@ I'm passionate about systems that empower creators — whether it’s game engin
 
 ---
 
-### 🤓 Fun Fact
-
-> I like breaking things just to figure out how to put them back together — better.
 
 
 
