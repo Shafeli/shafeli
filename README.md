@@ -62,7 +62,7 @@ Former chef turned systems developer with a passion for empowering creators thro
 ---
 
 ### 📬 Open to Work  
-- 💼 Seeking mid-level **C# developer roles** in the Puyallup area  
+- 💼 Seeking mid-level **C# developer roles** in the Puyallup/ Seattle area  
 - 🎮 Open to **Unity tooling contracts** for studios with workflow backlogs  
 - 🌐 Available for **remote freelance** backend or engine work
 
