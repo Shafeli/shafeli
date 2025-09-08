@@ -1,22 +1,22 @@
 # Hey, I'm Silas 👋  
-### Engine & Tools Developer · he/him
+### Backend & Systems Developer · he/him  
 
 ---
 
 ### 👋 About Me  
-Former chef turned systems developer with a passion for empowering creators through elegant, high-performance tools. I specialize in backend architecture, engine internals, and workflow automation — always building with empathy for real-world dev pain points.
+Former chef turned backend developer who builds practical, self-hosted systems with .NET Core, EF Core, and Docker. I specialize in designing APIs, connecting services, and deploying real tools that solve everyday problems. I also have deep experience with engine internals and low-level systems from years of C++ work.  
 
 ---
 
 ### 🧰 What I Do  
-- 🛠️ Build modular tools, engines, and automation systems using **C#**, **C++**, **Python**, and **Lua**  
-- 🧠 Explore rendering pipelines, ECS patterns, and low-level optimization  
-- 🚀 Develop backend services with **ASP.NET Core**, **SQL Server**, and **Docker**  
-- 🧪 Prototype fast, iterate smart, and ship solutions 
+- 🛠️ Develop secure, modular backend services with **ASP.NET Core**, **SQL Server**, **Entity Framework Core**, and **Docker**  
+- 🌐 Build Blazor frontends and self-hosted apps for real-world use (home lab deployments, internal tools)  
+- ⚡ Automate workflows and optimize developer experience  
+- 🔬 Explore systems internals with **C++**, **Vulkan**, and engine architecture (secondary focus)  
 
 ---
 
-### 💡 Tech I Use
+### 💡 Tech I Use  
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -33,38 +33,33 @@ Former chef turned systems developer with a passion for empowering creators thro
 
 ---
 
-### 🔭 Current Projects
+### 🔭 Current Projects  
 
 **🧵 3D Printer Job Tracker**  
-- Stack: ASP.NET Core + Blazor + SQL Server  
-- Purpose: Internal tool for family to submit, track, and manage 3D print jobs  
-- Features: Token-based auth, status updates, Dockerized deployment in home lab  
-- Goal: First home lab app + backend
+- Stack: ASP.NET Core + Blazor + SQL Server + Docker  
+- Purpose: Family tool to queue, track, and manage 3D print jobs  
+- Features: Token-based auth, status updates, self-hosted deployment  
+- Goal: Demonstrate full-stack backend project from DB → API → UI → deployment  
 
 **🧠 Modular 3D Engine**  
-- Stack: C++, Vulkan, custom math & physics systems  
-- Focus: ECS architecture, rendering pipelines, performance profiling  
-- Goal: Deepen understanding of engine internals and low-level optimization
-
-**⚙️ Custom Tooling**  
-- Python + WinForms automation for asset pipelines  
-- Emphasis: Fast iteration, usability, and productivity
+- Stack: C++ + Vulkan, custom math/physics systems  
+- Focus: ECS, rendering pipelines, low-level optimization  
+- Goal: Ongoing R&D for deep systems knowledge  
 
 ---
 
-### 🏢 Studio & Published Work
+### 🏢 Studio Work  
 
-**noCTRL Studios** – My personal tools & engine studio  
-- Focus: Unity tooling for AI, debugging, and workflow automation  
-- ✅ Published Unity Asset: Event replay tool for devs (available on Unity Asset Store)  
-- Mission: Build modular, maintainable tools that solve real problems for real developers
+**noCTRL Studios** – Independent tools & engine studio  
+- ✅ Published Unity asset (Event replay tool for debugging workflows)  
+- 🔧 Focus: Practical developer tools that improve iteration and reduce pain points  
 
 ---
 
 ### 📬 Open to Work  
-- 💼 Seeking mid-level **C# developer roles** in the Puyallup/ Seattle area  
-- 🎮 Open to **Unity tooling contracts** for studios with workflow backlogs  
-- 🌐 Available for **remote freelance** backend or engine work
+- 💼 Seeking mid-level **C#/.NET backend roles** (Seattle area or remote)  
+- 🖥️ Open to freelance backend/API contracts  
+- 🎮 Unity tooling contracts (secondary focus, if aligned with studio needs)  
 
 ---
 
