@@ -4,13 +4,16 @@
 ---
 
 ### 👋 About Me  
-Former chef turned backend developer who builds practical, self-hosted systems with .NET Core, EF Core, and Docker. I specialize in designing APIs, connecting services, and deploying real tools that solve everyday problems. I also have deep experience with engine internals and low-level systems from years of C++ work.  
+Former chef turned backend developer who builds practical, self-hosted systems with .NET Core, EF Core, and Docker. I specialize in designing APIs, connecting services, and deploying real tools that solve everyday problems.  
+
+On the infrastructure side, I maintain a home lab where I self-host databases, .NET services, and AI workloads. Recently, I’ve been building a wrapper around **Ollama** to expose local LLMs as a microservice, enabling other apps in my lab to integrate generative AI seamlessly.  
 
 ---
 
 ### 🧰 What I Do  
 - 🛠️ Develop secure, modular backend services with **ASP.NET Core**, **SQL Server**, **Entity Framework Core**, and **Docker**  
 - 🌐 Build Blazor frontends and self-hosted apps for real-world use (home lab deployments, internal tools)  
+- 🤖 Integrate **LLMs as microservices** into private infrastructure using Docker + Ollama  
 - ⚡ Automate workflows and optimize developer experience  
 - 🔬 Explore systems internals with **C++**, **Vulkan**, and engine architecture (secondary focus)  
 
@@ -24,6 +27,7 @@ Former chef turned backend developer who builds practical, self-hosted systems w
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Unraid](https://img.shields.io/badge/Unraid-F15A24?style=flat&logo=unraid&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=openai&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan-FF5733?style=flat&logo=vulkan&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,6 +44,12 @@ Former chef turned backend developer who builds practical, self-hosted systems w
 - Purpose: Family tool to queue, track, and manage 3D print jobs  
 - Features: Token-based auth, status updates, self-hosted deployment  
 - Goal: Demonstrate full-stack backend project from DB → API → UI → deployment  
+
+**🤖 LLM Microservice Wrapper**  
+- Stack: Docker, Ollama, Unraid  
+- Purpose: Expose local LLMs as a microservice for apps in my home lab  
+- Focus: API integration, private infrastructure, lightweight generative AI access  
+- Goal: Practical AI service integration into real-world backend systems  
 
 **🧠 Modular 3D Engine**  
 - Stack: C++ + Vulkan, custom math/physics systems  
