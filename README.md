@@ -1,12 +1,12 @@
 # Hey, I'm Silas 👋  
-### Backend & Systems Developer · he/him  
+### Backend & Systems Developer · Digital Fabrication Engineer · he/him
 
 ---
 
 ### 👋 About Me  
-Former chef turned backend developer who builds practical, self-hosted systems with .NET Core, EF Core, and Docker. I specialize in designing APIs, connecting services, and deploying real tools that solve everyday problems.  
+Former chef turned full‑stack engineer and fabrication strategist. I build practical, self‑hosted systems with .NET Core, EF Core, and Docker, while also designing and producing physical products through CAD, engraving, and 3D printing.
 
-On the infrastructure side, I maintain a home lab where I self-host databases, .NET services, and AI workloads. Recently, I’ve been building a wrapper around **Ollama** to expose local LLMs as a microservice, enabling other apps in my lab to integrate generative AI seamlessly.  
+My work spans both software engineering and digital fabrication — from APIs and microservices to NFC‑enabled containers, custom engravings, and modular product systems. I thrive on rapid prototyping, iterative design, and bridging digital workflows with real‑world hardware.
 
 ---
 
@@ -15,7 +15,10 @@ On the infrastructure side, I maintain a home lab where I self-host databases, .
 - 🌐 Build Blazor frontends and self-hosted apps for real-world use (home lab deployments, internal tools)  
 - 🤖 Integrate **LLMs as microservices** into private infrastructure using Docker + Ollama  
 - ⚡ Automate workflows and optimize developer experience  
-- 🔬 Explore systems internals with **C++**, **Vulkan**, and engine architecture (secondary focus)  
+- 🔬 Explore systems internals with **C++**, **Vulkan**, and engine architecture (secondary focus)
+- ⚙️ Design and fabricate physical products with Onshape, engraving workflows, and print farm systems
+- 🔧 Prototype custom hardware solutions (NFC containers, grinders, coasters, modular accessories)
+- 🚀 Partner with businesses to deliver branded fabrication solutions and external tech support
 
 ---
 
