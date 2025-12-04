@@ -78,5 +78,6 @@ My work spans both software engineering and digital fabrication — from APIs an
 ---
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafeli&show_icons=true&theme=tokyonight&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shafeli&show_icons=true&theme=tokyonight)
+
 
