@@ -1,9 +1,10 @@
 # Hey, I'm Silas 👋  
 ### Backend & Systems Developer · Digital Fabrication Engineer · he/him
-##### I build modular systems that bridge software engineering and digital fabrication.
+
 ---
 
-### 👋 About Me  
+### 👋 About Me 
+##### I build modular systems that bridge software engineering and digital fabrication.
 Former chef turned full‑stack engineer and fabrication strategist. I build practical, self‑hosted systems with .NET Core, EF Core, and Docker, while also designing and producing physical products through CAD, engraving, and 3D printing.
 
 My work spans both software engineering and digital fabrication — from APIs and microservices to NFC‑enabled containers, custom engravings, and modular product systems. I thrive on rapid prototyping, iterative design, and bridging digital workflows with real‑world hardware.
