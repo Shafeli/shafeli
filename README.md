@@ -1,6 +1,6 @@
 # Hey, I'm Silas 👋  
 ### Backend & Systems Developer · Digital Fabrication Engineer · he/him
-I build modular systems that bridge software engineering and digital fabrication.
+### I build modular systems that bridge software engineering and digital fabrication.
 ---
 
 ### 👋 About Me  
