@@ -16,7 +16,7 @@ My work spans both software engineering and digital fabrication — from APIs an
 - 🌐 Build Blazor frontends and self-hosted apps for real-world use (home lab deployments, internal tools)  
 - 🤖 Integrate **LLMs as microservices** into private infrastructure using Docker + Ollama  
 - ⚡ Automate workflows and optimize developer experience  
-- 🔬 Explore systems internals with **C++**, **Vulkan**, and engine architecture (secondary focus)
+- 🔬 Explore systems internals with **C++**, **Vulkan**, and engine architecture
 - ⚙️ Design and fabricate physical products with Onshape, engraving workflows, and print farm systems
 - 🔧 Prototype custom hardware solutions (NFC containers, grinders, coasters, modular accessories)
 - 🚀 Partner with businesses to deliver branded fabrication solutions and external tech support
