@@ -48,6 +48,6 @@ My work spans both software engineering and digital fabrication — from APIs an
 ---
 
 ### 📬 Open to Work  
-- 💼 Seeking (Seattle area or remote)  
+- 💼 Seeking **Unity**, **C++**, **Vulkan**, and engine architecture roles (Seattle area or remote)  
 - 🖥️ Open to freelance backend/API contracts  
 - 🎮 Unity tooling contracts (secondary focus, if aligned with studio needs)  
