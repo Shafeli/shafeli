@@ -39,29 +39,6 @@ My work spans both software engineering and digital fabrication — from APIs an
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Perforce](https://img.shields.io/badge/Perforce-4040A1?style=flat&logo=perforce&logoColor=white)
 
----
-
-### 🔭 Current Projects  
-
-**🧵 3D Printer Job Tracker**  
-- Stack: ASP.NET Core + Blazor + SQL Server + Docker  
-- Purpose: Family tool to queue, track, and manage 3D print jobs  
-- Features: Token-based auth, status updates, self-hosted deployment  
-- Goal: Demonstrate full-stack backend project from DB → API → UI → deployment  
-
-**🤖 LLM Microservice Wrapper**  
-- Stack: Docker, Ollama, Unraid  
-- Purpose: Expose local LLMs as a microservice for apps in my home lab  
-- Focus: API integration, private infrastructure, lightweight generative AI access  
-- Goal: Practical AI service integration into real-world backend systems  
-
-**🧠 Modular 3D Engine**  
-- Stack: C++ + Vulkan, custom math/physics systems  
-- Focus: ECS, rendering pipelines, low-level optimization  
-- Goal: Ongoing R&D for deep systems knowledge  
-
----
-
 ### 🏢 Studio Work  
 
 **noCTRL Studios** – Independent tools & engine studio  
@@ -71,6 +48,6 @@ My work spans both software engineering and digital fabrication — from APIs an
 ---
 
 ### 📬 Open to Work  
-- 💼 Seeking mid-level **C#/.NET backend roles** (Seattle area or remote)  
+- 💼 Seeking (Seattle area or remote)  
 - 🖥️ Open to freelance backend/API contracts  
 - 🎮 Unity tooling contracts (secondary focus, if aligned with studio needs)  
